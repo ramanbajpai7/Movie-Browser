@@ -58,6 +58,8 @@ Before running the app, ensure you have the following installed:
 
 Once the dependencies are installed, you can run the application on your local server.
 
+*Deploy*:https://profound-creponne-8e820b.netlify.app/---[*From chrome settings allow insecure content for this site. Root cause for the issue is http and HTTPS mixed content site is served as http and netlify with https.*]
+
 1. *Start the development server*:
 
    bash
